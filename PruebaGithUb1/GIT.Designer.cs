@@ -58,7 +58,7 @@
             // 
             // trackBar1
             // 
-            this.trackBar1.Location = new System.Drawing.Point(133, 346);
+            this.trackBar1.Location = new System.Drawing.Point(148, 251);
             this.trackBar1.Name = "trackBar1";
             this.trackBar1.Size = new System.Drawing.Size(385, 45);
             this.trackBar1.TabIndex = 2;
