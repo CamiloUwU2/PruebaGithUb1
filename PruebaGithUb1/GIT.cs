@@ -19,7 +19,12 @@ namespace PruebaGithUb1
 
         private void label1_Click(object sender, EventArgs e)
         {
-            regrg
+            
+        }
+
+        private void btnmostrar_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Escribiste el NO: " + textBox1.Text);
         }
     }
 }
