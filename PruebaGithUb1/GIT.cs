@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace PruebaGithUb1
 {
-    public partial class Form1 : Form
+    public partial class GIT : Form
     {
-        public Form1()
+        public GIT()
         {
             InitializeComponent();
         }
