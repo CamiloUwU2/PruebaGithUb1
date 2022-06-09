@@ -16,7 +16,7 @@ namespace PruebaGithUb1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new GIT());
+            Application.Run(new Form1());
         }
     }
 }
